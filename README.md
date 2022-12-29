@@ -38,10 +38,13 @@ Após o desenvolvimento dos códigos, destacamos alguns pontos interessantes que
 - Há um aumento robusto do número de leitos totais e disponibilizados para o SUS após o pico histórico de contaminações no Brasil (Fevereiro de 2021), demonstrando uma estratégia responsiva da SES visando a sustentabilidade do sistema de saúde neste período de estresse da rede de atenção. No caso dos leitos disponibilizados para o SUS, o número de leitos de UTI foi de 238 para 801 no intervalo de 1 mês (fevereiro->março/2021) e continuou crescendo até outubro do mesmo ano, atingindo um pico de 1006 leitos disponíveis. Esta alteração se dá tanto pelo aquisição de novos leitos, quanto pelo aumento da disponibilização dos leitos já existentes, que permanesceu alta até 2022.
 
 
-- Com o avanço da vacinação e a redução da letalidade potencial das novas variantes do SARS-CoV-2, já no ano de 2022, podemos observar um movimento de transformação dos Leitos Exclusivos para Covid-19 em Leitos de UTI Gerais, principalmente Leitos de UTI Adulto - Tipo II. Esta movimentação é importante, pois amplia a capacidade da atenção terciária para diversos agravos, passando de 1434 leitos de UTI Adulto, Pediátrica, Neonatal, Queimados e Coronáriana para 2107 durante todo o período analisado.
+- Com o avanço da vacinação e a redução da letalidade potencial das novas variantes do SARS-CoV-2, já no ano de 2022, podemos observar um movimento de transformação dos Leitos Exclusivos para Covid-19 em Leitos de UTI Geral, principalmente Leitos de UTI Adulto - Tipo II. Esta movimentação é importante, pois amplia a capacidade da atenção terciária para diversos agravos, passando de 1434 leitos de UTI Adulto, Pediátrica, Neonatal, Queimados e Coronáriana para 2107 durante todo o período analisado.
 
 
-Abaixo está o passo a passo de como reproduzir os resultados os códigos deste estudo.
+- Ainda relacionado à transformação dos Leitos Covid-19 em Leitos de UTI Geral, é possivel observar que esta ação expandiu o número de leitos para regiões mais ao norte do estado, o que possivelmente trará benefícios para o sistema de saúde, visto que realiza uma aproximação do serviço aos cidadãos das regiões que não tinham leitos próximos e precisavam se deslocar para a região central/metropolitana.
+
+
+Abaixo está o passo a passo de como trabalhar com os códigos deste estudo.
 
 ### Pré-requisitos
 
