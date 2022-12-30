@@ -32,14 +32,28 @@ A fim de apresentar outras visualizações interativas com uso de mapas, também
 
 Após o desenvolvimento dos códigos, destacamos alguns pontos interessantes que podem ser observados pela análise dos dados:
 
+<div style="background-color:white; height: 100%">
+<h1 align="center"> <img width=1200px src=img/leitos_cov19.png> </h1>
+</div>
+
+<div style="background-color:white; height: 100%">
+<h1 align="center"> <img width=1200px src=img/leitos_cov19_sus.png> </h1>
+</div>
+
 - Há uma redução considerável no número de leitos exclusivos para Covid-19 disponibilizados para o SUS no período que antecede o pico de letalidade do Covid-19 no Brasil (abril de 2021), variando de 413 para 238 leitos no período de novembro de 2020 à fevereiro de 2021.
 
 
 - Há um aumento robusto do número de leitos totais e disponibilizados para o SUS após o pico histórico de contaminações no Brasil (Fevereiro de 2021), demonstrando uma estratégia responsiva da SES visando a sustentabilidade do sistema de saúde neste período de estresse da rede de atenção. No caso dos leitos disponibilizados para o SUS, o número de leitos de UTI foi de 238 para 801 no intervalo de 1 mês (fevereiro->março/2021) e continuou crescendo até outubro do mesmo ano, atingindo um pico de 1006 leitos disponíveis. Esta alteração se dá tanto pelo aquisição de novos leitos, quanto pelo aumento da disponibilização dos leitos já existentes, que permanesceu alta até 2022.
 
+<div style="background-color:white; height: 100%">
+<h1 align="center"> <img width=1200px src=img/leitos_uti.png> </h1>
+</div>
 
 - Com o avanço da vacinação e a redução da letalidade potencial das novas variantes do SARS-CoV-2, já no ano de 2022, podemos observar um movimento de transformação dos Leitos Exclusivos para Covid-19 em Leitos de UTI Geral, principalmente Leitos de UTI Adulto - Tipo II. Esta movimentação é importante, pois amplia a capacidade da atenção terciária para diversos agravos, passando de 1434 leitos de UTI Adulto, Pediátrica, Neonatal, Queimados e Coronáriana para 2107 durante todo o período analisado.
 
+Leitos UTI - Janeiro de 2019             |  Leitos UTI - Novembro de 2022 
+:-------------------------:|:-------------------------:
+![](https://github.com/willianfco/Atividade_DS_SES-GO/blob/master/img/mapa_leitos_jan19.png)  |  ![](https://github.com/willianfco/Atividade_DS_SES-GO/blob/master/img/mapa_leitos_nov22.png)
 
 - Ainda relacionado à transformação dos Leitos Covid-19 em Leitos de UTI Geral, é possivel observar que esta ação expandiu o número de leitos para regiões mais ao norte do estado, o que possivelmente trará benefícios para o sistema de saúde, visto que realiza uma aproximação do serviço aos cidadãos das regiões que não tinham leitos próximos e precisavam se deslocar para a região central/metropolitana.
 
