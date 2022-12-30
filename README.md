@@ -8,14 +8,14 @@ As análises nos notebooks nomeados `AED` e `AED_Plotly` são as mesmas, contudo
 
 A fim de apresentar outras visualizações interativas com uso de mapas, também foram desenvolvidos dois paineis utilizando o Tableau Public:
 
-[> Análises - Leitos Exclusivos Covid-19](https://public.tableau.com/views/Anlisegeogrfica-LeitosCovid-19/PaineldeAnlise?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
+[1. Análises - Leitos Exclusivos Covid-19](https://public.tableau.com/views/Anlisegeogrfica-LeitosCovid-19/PaineldeAnlise?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
 
 - Onde foram analisadas as evoluções temporais e espaciais do número de leitos classificados como:
     - UTI SRAG Covid-19 - Adulto
     - UTI SRAG Covid-19 - Pediátrico
     - Suporte Ventilatório Pulmonar - Covid-19
 
-[> Análises - Leitos UTI Geral](https://public.tableau.com/views/Anlisegeogrfica-LeitosUTIGeral/PaineldeAnlise?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
+[2. Análises - Leitos UTI Geral](https://public.tableau.com/views/Anlisegeogrfica-LeitosUTIGeral/PaineldeAnlise?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
 
 - Onde foram analisadas as evoluções temporais e espaciais do número de leitos classificados como:
     - UTI ADULTO - TIPO I
