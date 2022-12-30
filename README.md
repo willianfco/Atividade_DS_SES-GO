@@ -4,18 +4,18 @@ Repositório destinado à análise exploratória dos dados de leitos cadastrados
 
 Para tal, extraimos os bancos de dados do CNES.LT de janeiro de 2019 à novembro de 2022 diretamente do DataSUS por este [LINK](https://datasus.saude.gov.br/transferencia-de-arquivos/#) e transformamos os arquivos dbc's em csv por meio da biblioteca utilitária dbc2csv, disponível [neste repositório](https://github.com/greatjapa/dbc2csv).
 
-As análises nos notebooks nomeados `AED` e `AED_Plotly` são as mesmas, contudo em `AED_Plotly` foi utilizada a biblioteca Plotly Express, que cria gráficos dinâmicos em HTML/JavaScript que não são renderizados pelo visualizador estático do GitHub. Para visualização dos gráficos interativos, recomenda-se que baixe o arquivo e visualize em ferramenta compatível, como IDEs e Jupyter Notebook.
+As análises nos notebooks nomeados `AED` e `AED_Plotly` são as mesmas, contudo em `AED_Plotly` foi utilizada a biblioteca Plotly Express, que cria gráficos dinâmicos em HTML/JavaScript que não são renderizados pelo visualizador estático do GitHub. Para visualização dos gráficos interativos, recomenda-se acesso em:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KmWxYn1hmskDewwK3AGW2txd5Ch2wvPx?usp=sharing)
 
 A fim de apresentar outras visualizações interativas com uso de mapas, também foram desenvolvidos dois paineis utilizando o Tableau Public:
 
-[Análises - Leitos Exclusivos Covid-19](https://public.tableau.com/views/Anlisegeogrfica-LeitosCovid-19/PaineldeAnlise?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
+[> Análises - Leitos Exclusivos Covid-19](https://public.tableau.com/views/Anlisegeogrfica-LeitosCovid-19/PaineldeAnlise?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
 
 - Onde foram analisadas as evoluções temporais e espaciais do número de leitos classificados como:
     - UTI SRAG Covid-19 - Adulto
     - UTI SRAG Covid-19 - Pediátrico
     - Suporte Ventilatório Pulmonar - Covid-19
 
-[Análises - Leitos UTI Geral](https://public.tableau.com/views/Anlisegeogrfica-LeitosUTIGeral/PaineldeAnlise?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
+[> Análises - Leitos UTI Geral](https://public.tableau.com/views/Anlisegeogrfica-LeitosUTIGeral/PaineldeAnlise?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
 
 - Onde foram analisadas as evoluções temporais e espaciais do número de leitos classificados como:
     - UTI ADULTO - TIPO I
@@ -43,6 +43,8 @@ Após o desenvolvimento dos códigos, destacamos alguns pontos interessantes que
 
 - Ainda relacionado à transformação dos Leitos Covid-19 em Leitos de UTI Geral, é possivel observar que esta ação expandiu o número de leitos para regiões mais ao norte do estado, o que possivelmente trará benefícios para o sistema de saúde, visto que realiza uma aproximação do serviço aos cidadãos das regiões que não tinham leitos próximos e precisavam se deslocar para a região central/metropolitana.
 
+
+## Execução em Máquina Local
 
 Abaixo está o passo a passo de como trabalhar com os códigos deste estudo.
 
