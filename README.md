@@ -80,9 +80,9 @@ Abaixo está o passo a passo de como trabalhar com os códigos deste estudo.
     git clone https://github.com/willianfco/Atividade_DS_SES-GO.git
     ```
 
-2. Crie um ambiente virutal e instale as bibliotecas utilizadas
+2. Crie um ambiente virtual e instale as bibliotecas utilizadas
 
-    Crie um ambiente virtual de Python em sua máquina local para o projeto que estamos executando. Você pode utilziar a ferramenta que desejar para a criação deste ambiente. Ative o ambiente virtual e instale os requisitos usando `make`:
+    Crie um ambiente virtual de Python em sua máquina local para o projeto que estamos executando. Você pode utilziar a ferramenta que desejar para a criação deste ambiente. Ative o ambiente virtual e instale os requisitos disponibilizados em `requirements.txt` usando `make`:
     
     ```sh
     make requirements
