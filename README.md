@@ -55,7 +55,7 @@ Leitos UTI - Janeiro de 2019             |  Leitos UTI - Novembro de 2022
 :-------------------------:|:-------------------------:
 ![](https://github.com/willianfco/Atividade_DS_SES-GO/blob/master/img/mapa_leitos_jan19.png)  |  ![](https://github.com/willianfco/Atividade_DS_SES-GO/blob/master/img/mapa_leitos_nov22.png)
 
-- Ainda relacionado à transformação dos Leitos Covid-19 em Leitos de UTI Geral, é possivel observar que esta ação expandiu o número de leitos para outras regiões do estado, o que possivelmente trará benefícios para o sistema de saúde, visto que realiza uma aproximação do serviço aos cidadãos das regiões que não tinham leitos próximos e precisavam ser deslocados para a região central/metropolitana para terem acesso aos leitos em unidades de tratamento intensivo.
+- Ainda relacionado à transformação dos Leitos Covid-19 em Leitos de UTI Geral, é possivel observar que esta ação expandiu o número de leitos para outras regiões do estado, o que possivelmente trará benefícios para o sistema de saúde, visto que realiza uma aproximação do serviço aos cidadãos das regiões que não tinham leitos próximos e os cidadãos precisavam ser deslocados para a região central/metropolitana para terem acesso aos leitos em unidades de tratamento intensivo.
 
 
 ## Execução em Máquina Local
