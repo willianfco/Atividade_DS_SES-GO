@@ -2,7 +2,7 @@
 Criado em Quinta-Feira, 29/12/2022
 Autor: Willian Oliveira
 
-Código desenvolvido para criar as bases que serão utilizadas nas análises de distribuição média per-capita de leitos municipal por ano
+Código desenvolvido para criar as bases que serão utilizadas nas análises de distribuição de leitos municipal por ano
 e outras análises interativas por meio da ferramenta Tableau Public.
 
 """
