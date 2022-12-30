@@ -73,3 +73,7 @@ Abaixo está o passo a passo de como trabalhar com os códigos deste estudo.
     ```sh
     make requirements
     ```
+
+## Licença
+
+O projeto está disponibilizado sob a licença Creative Commons Zero v1.0 Universal, que renuncia ao interesse de direitos autorais em uma obra e a dedica ao domínio público mundial, sob esta licença está permitido o uso comercial e privado; modificação e distribuição dos códigos aqui disponibilizados. Para mais informações, verificar em `LICENSE`.
