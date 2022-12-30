@@ -30,7 +30,7 @@ A fim de apresentar outras visualizações interativas com uso de mapas, também
     - UTI CORONARIANA - TIPO II
     - UTI CORONARIANA - TIPO III
 
-Após o desenvolvimento dos códigos, destacamos alguns pontos interessantes que podem ser observados pela análise dos dados:
+Destacamos alguns pontos interessantes que podem ser observados pelas análises gráficas:
 
 <div style="background-color:white; height: 100%">
 <h1 align="center"> <img width=1200px src=img/leitos_cov19.png> </h1>
