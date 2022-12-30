@@ -52,6 +52,8 @@ Com base nos gráficos acima, podemos identificar que:
 
 - Com o avanço da vacinação e a redução da letalidade potencial das novas variantes do SARS-CoV-2, já no ano de 2022, podemos observar um movimento de transformação dos Leitos Exclusivos para Covid-19 em Leitos de UTI Geral, principalmente Leitos de UTI Adulto - Tipo II. Esta movimentação é importante, pois amplia a capacidade da atenção terciária para diversos agravos, passando de 1434 leitos de UTI Adulto, Pediátrica, Neonatal, Queimados e Coronáriana para 2107 durante todo o período analisado.
 
+Já na análise espacial, podemos verificar o seguinte comportamento:
+
 Leitos UTI - Janeiro de 2019             |  Leitos UTI - Novembro de 2022 
 :-------------------------:|:-------------------------:
 ![](https://github.com/willianfco/Atividade_DS_SES-GO/blob/master/img/mapa_leitos_jan19.png)  |  ![](https://github.com/willianfco/Atividade_DS_SES-GO/blob/master/img/mapa_leitos_nov22.png)
