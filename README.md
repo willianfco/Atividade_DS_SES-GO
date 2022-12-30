@@ -30,7 +30,7 @@ A fim de apresentar outras visualizações interativas com uso de mapas, também
     - UTI CORONARIANA - TIPO II
     - UTI CORONARIANA - TIPO III
 
-Destacamos alguns pontos interessantes que podem ser observados pelas análises gráficas:
+Destacamos alguns pontos interessantes que podem ser observados pelas análises gráficas acerca da evolução dos leitos exclusivos para covid-19 e dos leitos de UTI Geral no estado de Goiás:
 
 <div style="background-color:white; height: 100%">
 <h1 align="center"> <img width=1200px src=img/leitos_cov19.png> </h1>
