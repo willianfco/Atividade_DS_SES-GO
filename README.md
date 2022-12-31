@@ -94,7 +94,7 @@ Abaixo está o passo a passo de como trabalhar com os códigos deste estudo.
     
 3. Explore a Wiki do Repositório
 
-    Na Wiki do nosso repositório você encontrará a documentação dos códigos desenvolvidos para este projeto. Lá você poderá verificar a documentação externa que explica o contexto geral do código, como ele funciona e como você pode utiliza-lo para suas próprias análises.
+    Na Wiki deste repositório você encontrará a documentação dos códigos desenvolvidos para este projeto, onde você poderá verificar a explicação sobre o contexto geral dos códigos, como eles funcionam e como utiliza-los para suas próprias análises.
     
 ## Licença
 
