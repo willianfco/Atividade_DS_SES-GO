@@ -92,7 +92,7 @@ Abaixo está o passo a passo de como trabalhar com os códigos deste estudo.
     make requirements
     ```
     
-3. Explore a Wiki do Repositório
+3. Explore a Wiki do repositório
 
     Na Wiki deste repositório você encontrará a documentação dos códigos desenvolvidos para este projeto, onde você poderá verificar a explicação sobre o contexto geral dos códigos, como eles funcionam e como utiliza-los para suas próprias análises.
     
