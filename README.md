@@ -91,7 +91,11 @@ Abaixo está o passo a passo de como trabalhar com os códigos deste estudo.
     ```sh
     make requirements
     ```
+    
+3. Explore a Wiki do Repositório
 
+    Na Wiki do nosso repositório você encontrará a documentação dos códigos desenvolvidos para este projeto. Lá você poderá verificar a documentação externa que explica o contexto geral do código, como ele funciona e como você pode utiliza-lo para suas próprias análises.
+    
 ## Licença
 
 O projeto está disponibilizado sob a licença Creative Commons Zero v1.0 Universal, que renuncia ao interesse de direitos autorais em uma obra e a dedica ao domínio público mundial, sob esta licença está permitido o uso comercial, uso privado, modificação e distribuição dos códigos aqui disponibilizados. Para mais informações, verificar em `LICENSE`.
